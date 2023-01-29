@@ -1,0 +1,78 @@
+html,
+body {
+  height: 100%;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 100%;
+}
+.card-header {
+  text-align: left !important;
+  background-color: #fafafa;
+}
+.author {
+  font-family: sans-serif;
+}
+
+.border-light {
+  border-bottom: 2px solid #56585b85 !important;
+}
+
+.form-footer {
+  position: absolute;
+  bottom: 0;
+  background-color: black;
+  color: white;
+  width: 100%;
+  height: 75px;
+}
+
+.home-footer {
+  background-color: black;
+  color: white;
+  width: 100%;
+  height: 75px;
+  
+}
+
+
+.txt-area {
+  resize: none;
+  height: 200px;
+}
+.icons-container{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  list-style: none;
+  height: 100%;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+
+li a {
+  color:rgba(255, 255, 255, 0.55);
+  font-size: 18px;
+}
+li a:hover{
+  color: #fff;
+}
+.copyright{
+  color: rgba(255, 255, 255, 0.55);
+  margin-top: 8px;
+  font-size: 0.9rem;
+}
+
+.f-row{
+  width: 100%;
+
+}
+
+.btn-submit{
+  width: 70%;
+  height: 40px;
+}
