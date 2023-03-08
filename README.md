@@ -59,10 +59,13 @@ or
 
 
 #### Home Page Screenshot
-<img src= 'https://user-images.githubusercontent.com/31719363/215342190-e6ce320c-d502-4654-9094-8ce718fca639.png' width='650px' height = '600px' />
+<img src= 'https://user-images.githubusercontent.com/31719363/223627608-db29b93d-e467-44af-bdf2-1cd670749a48.png' />
+
+
 
 #### Form Page Screenshot
-<img src= 'https://user-images.githubusercontent.com/31719363/215343136-532a10ac-94c8-495e-87ff-627196266db3.png' width='650px' height = '600px' />
+<img src= 'https://user-images.githubusercontent.com/31719363/223627953-6dd6c779-0b6e-4011-9b5f-24bb3153087e.png'  />
+
 
 
 
